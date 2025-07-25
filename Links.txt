@@ -1,0 +1,4 @@
+Mobile Fish Script: https://www.mobilefish.com/download/lora/ttsce-otaa-pro-mini-sensors-decodeuplink.txt
+Mobile Fish HEX Converter: https://www.mobilefish.com/download/lora/eui_key_converter.html
+Tutorial DHT22 : https://tutorial.cytron.io/2021/12/20/displaying-dht22-sensor-data-at-thingspeak-with-lorawan-network/
+Consola TTN : https://console.cloud.thethings.network/
